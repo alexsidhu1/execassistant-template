@@ -29,9 +29,13 @@ Four things make that work:
 | `templates/` | Reusable scaffolds (e.g. an end-of-session summary). |
 | `references/` | Standard operating procedures and example outputs. |
 
+## New to this? Start here
+
+If you're not technical, read **[GETTING-STARTED.md](GETTING-STARTED.md)**. It walks you from zero (installing the app) to a working assistant in about 30 minutes, no coding required.
+
 ## Make it yours
 
-1. **Clone it** and open the folder in Claude Code.
+1. **Clone it** (or download the ZIP) and open the folder in Claude Code.
 2. **Rewrite `context/`** with your real details. This is where most of the value comes from. Be specific. Vague context produces vague assistance.
 3. **Edit `CLAUDE.md`** so the assistant is working for you, not the placeholder persona.
 4. **Set the rules** in `.claude/rules/communication-style.md` to match how you actually write.
